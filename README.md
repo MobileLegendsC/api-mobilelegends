@@ -2,7 +2,7 @@
 
 # Note
 
- 1. Thank you for supporting us and the API, the beta version of the API 
+ 1. Thank you for supporting us and the API, the beta version of the API is now open-source.
  2. Join our discord server for further information:  [https://discord.gg/vn3y6MCJVA](https://discord.gg/vn3y6MCJVA).
 
 # Maintainer
